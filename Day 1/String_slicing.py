@@ -1,7 +1,7 @@
 name="Atharva"
 length=len(name) # Gives the length of string
 print(length) 
-# Slicing can be donen using square brackets"[]"
+# Slicing can be done using square brackets"[]"
 # Index starts from 0 
 # While slicing, last index will not get printed, here 1 will not get printed
 print(name[0:1])
