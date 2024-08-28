@@ -22,6 +22,11 @@ i=100
 j=98
 isgreater(i,j)
 
+# Using "Pass" to only name the fucntion and write the block afterwards so that Error is not passed by the interpreter 
+
+def islesser(a,b):
+    pass 
+
 # Output
 '''
 a exists in b
